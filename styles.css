@@ -1,0 +1,27 @@
+#header {
+    background-image: url("./assests/images/Adsız\ tasarım\ \(1\).jpg");
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+#header h1 {
+    color:white;
+    text-shadow: 2px 2px black;
+    font-size: 200%;
+    margin-top: 10%;
+}
+#header p {
+    color: white;
+    text-shadow: 1px 1px black;
+    margin-top: 10%;
+}
+.footer-container {
+    padding-top: 50px;
+    background-color: #272623;
+    padding-bottom: 5%;
+    color: #ffffff;
+}
+#foot div {
+    display: block;
+    text-align: center;
+}
